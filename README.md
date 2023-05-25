@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Angelo Souza
 
 - 🔭 Trabalho como Web Design
-- 🌱 Estudando Java e AngularJs
+- 🌱 Estudando JavaScript e React
 
  <div>
   <a href="https://github.com/angelomoreiradev">
